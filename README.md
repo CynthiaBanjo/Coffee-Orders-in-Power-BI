@@ -7,4 +7,5 @@
 ![Image Alt](https://github.com/CynthiaBanjo/Coffee-Orders-in-Power-BI/blob/b79bd1abeb72932287bd3082785a18205536df85/Map%20Visualization%20Of%20Sales%20by%20Countries.png)
 ## Total Sales of Coffee Type
 ![Image Alt](https://github.com/CynthiaBanjo/Coffee-Orders-in-Power-BI/blob/444590eb4b6d6b59f4913d7c13e870e14a301e89/Total%20Sales%20of%20Coffee%20Type.png)
-![Image Alt]()
+## Map Visualization of Quantity of Coffee Type Sold by Countries
+![Image Alt](https://github.com/CynthiaBanjo/Coffee-Orders-in-Power-BI/blob/78dabcaa1379fb5ce65df4fdf27c4e9310215692/Map%20Visualization%20of%20Quantity%20of%20Coffee%20Type%20Sold%20by%20Countries.png)
